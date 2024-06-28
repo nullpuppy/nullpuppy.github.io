@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>nullcode - status</title>
+    <link rel="self" type="application/atom+xml" href="https://nullpuppy.github.io/tags/status/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://nullpuppy.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-06-27T00:00:00+00:00</updated>
+    <id>https://nullpuppy.github.io/tags/status/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Status Updates</title>
+        <published>2024-06-27T00:00:00+00:00</published>
+        <updated>2024-06-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            nullpuppy
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://nullpuppy.github.io/blog/status-updates/"/>
+        <id>https://nullpuppy.github.io/blog/status-updates/</id>
+        
+        <content type="html" xml:base="https://nullpuppy.github.io/blog/status-updates/">&lt;p&gt;So, what’s going on with nullpuppy? 2024 has been a shit year. It started off with some layoffs that I was lucky
+enough to avoid, but they took a pretty significant toll to my mental health for a bit. I started making some progress
+towards improving things around home, and then we got hit with another round of layoffs where I was not so lucky. And
+now, two months later, I’m still unemployed, and the market is not great for job seekers right now.&lt;&#x2F;p&gt;
+&lt;p&gt;What have I been doing in the meantime? Struggling, a lot, but I think I’m on the otherside of the negatives, at least
+for a little bit. I’ve been diving into more frontend development (some of which can be seen
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nullpuppy&#x2F;frontend-mentor-solutions&quot;&gt;here&lt;&#x2F;a&gt; and working a bit on a note app, because everyone needs
+to make a note app right? I’ll have more on that soon, lots of stuff to write up.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

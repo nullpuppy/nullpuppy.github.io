@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://nullpuppy.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://nullpuppy.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://nullpuppy.github.io/blog/status-updates/</loc>
+        <lastmod>2024-06-27</lastmod>
+    </url>
+    <url>
+        <loc>https://nullpuppy.github.io/projects/</loc>
+    </url>
+    <url>
+        <loc>https://nullpuppy.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://nullpuppy.github.io/tags/blog/</loc>
+    </url>
+    <url>
+        <loc>https://nullpuppy.github.io/tags/status/</loc>
+    </url>
+    <url>
+        <loc>https://nullpuppy.github.io/tags/unemployment/</loc>
+    </url>
+</urlset>
